@@ -15,9 +15,9 @@ Made to facilitate beginner players in the potions part of Minecraft.
 
 IMAGES: 
 
-<img src="img/WhatsApp Image 2021-07-18 at 18.10.53"/>
+<img src="/img/WhatsApp Image 2021-07-18 at 18.10.53"/>
 
 
-<img src="img/WhatsApp Image 2021-07-18 at 18.10.53 (1)"/>
+<img src="/img/WhatsApp Image 2021-07-18 at 18.10.53 (1)"/>
 
-<img src="img/WhatsApp Image 2021-07-18 at 18.10.53 (2)"/>
+<img src="/img/WhatsApp Image 2021-07-18 at 18.10.53 (2)"/>
