@@ -1,0 +1,91 @@
+
+@font-face {
+    font-family: Minecraft;
+    src:local("Minecrafter.Reg.ttf") ,url("C:/Users/n_yan/Downloads/minecrafter/Minecrafter.Reg.ttf");
+}
+
+body{
+    width: 100%;
+    height: 100%;
+}
+
+header{
+    font-family: "Minecraft";
+
+    text-align: center;
+}
+
+#pot{
+    color:forestgreen;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    border-style:ridge;
+    border-color: forestgreen;
+    border-spacing: 10px;
+    text-shadow: 2px 2px black;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
+
+#titleB{
+    box-shadow: 3px 0px 3px 0px black;
+}
+
+#titulo{
+    color: white;
+    text-align: center;
+    border-style: none;
+    font-family: "Roboto", sans-serif;
+    margin-top: 30px;
+    text-shadow: 1px 1px gray;
+    -webkit-text-stroke-width: none;
+    -webkit-text-stroke-color: none;
+}
+
+#tituloG{
+    color: lawngreen;
+    text-shadow: 1px 1px lawngreen;
+}
+
+#item-box{
+    box-shadow: 2px 0px 2px 0px gray;
+}
+
+#titlePotion{
+    font-family: "Roboto",sans-serif;
+    font-weight: 900;
+
+}
+
+#img-load{
+    justify-content: center;
+    padding-top: 150px;
+}
+
+#instru{
+    color: black;
+    font-family: "Montserrat",sans-serif;
+    font-size:small;
+
+}
+
+#waterB{
+    font-display:inherit;
+}
+
+#sep{
+    background-color: indigo;
+    box-shadow: 1px 1px indigo;
+}
+
+#tituloB{
+    color: red;
+    text-shadow: 1px 1px red;
+}
+
+#potionGif{
+    width: 32px;
+    height: 32px;
+    overflow: hidden;
+    vertical-align: middle;
+}
