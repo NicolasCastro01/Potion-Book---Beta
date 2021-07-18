@@ -15,9 +15,9 @@ Made to facilitate beginner players in the potions part of Minecraft.
 
 IMAGES: 
 
-<img src="/img/WhatsApp Image 2021-07-18 at 18.10.53"/>
+<img src="https://github.com/NicolasCastro01/Potion-Book---Beta/blob/master/img/WhatsApp%20Image%202021-07-18%20at%2018.10.53.jpeg"/>
 
 
-<img src="/img/WhatsApp Image 2021-07-18 at 18.10.53 (1)"/>
+<img src="https://github.com/NicolasCastro01/Potion-Book---Beta/blob/master/img/WhatsApp%20Image%202021-07-18%20at%2018.10.53%20(1).jpeg"/>
 
-<img src="/img/WhatsApp Image 2021-07-18 at 18.10.53 (2)"/>
+<img src="https://github.com/NicolasCastro01/Potion-Book---Beta/blob/master/img/WhatsApp%20Image%202021-07-18%20at%2018.10.53%20(2).jpeg"/>
